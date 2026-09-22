@@ -1,0 +1,13 @@
+﻿Centre_Cout_Code,Centre_Cout,Business_Unit_Code,Business_Unit
+CC1001,IT,BU01,Construction France
+CC1002,Ressources Humaines,BU01,Construction France
+CC1003,Finance,BU01,Construction France
+CC2001,IT,BU02,Construction UK
+CC2002,Ressources Humaines,BU02,Construction UK
+CC2003,Finance,BU02,Construction UK
+CC3001,IT,BU03,Energie
+CC3002,Maintenance,BU03,Energie
+CC3003,Finance,BU03,Energie
+CC4001,IT,BU04,Infrastructures
+CC4002,Maintenance,BU04,Infrastructures
+CC4003,Finance,BU04,Infrastructures

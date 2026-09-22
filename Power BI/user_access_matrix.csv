@@ -1,0 +1,8 @@
+﻿User_ID,Role,Business_Unit_Access
+user_cd_01,Controleur de gestion,BU01
+user_cd_02,Controleur de gestion,BU02
+user_cd_03,Controleur de gestion,BU03
+user_fin_01,Responsable financier BU,BU01
+user_fin_02,Responsable financier BU,BU02
+user_fin_03,Responsable financier BU,BU03
+user_dir_01,Direction financière,ALL

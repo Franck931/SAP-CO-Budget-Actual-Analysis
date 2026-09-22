@@ -1,0 +1,865 @@
+﻿Mois,Business_Unit_Code,Business_Unit,Centre_Cout_Code,Centre_Cout,Nature_Depense,Budget_EUR,Reel_EUR
+2025-01,BU01,Construction France,CC1001,IT,Logiciels,6335.71,7373.09
+2025-01,BU01,Construction France,CC1001,IT,Prestations externes,10702.77,11211.76
+2025-01,BU01,Construction France,CC1001,IT,Salaires,15185.0,13688.95
+2025-01,BU01,Construction France,CC1001,IT,Matériel,5493.95,6240.24
+2025-01,BU01,Construction France,CC1001,IT,Déplacements,3887.34,4212.57
+2025-01,BU01,Construction France,CC1001,IT,Logiciel,4574.1,5352.02
+2025-01,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,8121.53,7472.39
+2025-01,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,7731.85,7040.04
+2025-01,BU01,Construction France,CC1002,Ressources Humaines,Salaires,16785.82,17174.74
+2025-01,BU01,Construction France,CC1002,Ressources Humaines,Matériel,7064.17,6683.45
+2025-01,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,3909.89,3503.39
+2025-01,BU01,Construction France,CC1002,Ressources Humaines,Énergie,5551.72,5390.16
+2025-01,BU01,Construction France,CC1003,Finance,Logiciels,6653.67,7379.64
+2025-01,BU01,Construction France,CC1003,Finance,Prestations externes,7828.24,7982.43
+2025-01,BU01,Construction France,CC1003,Finance,Salaires,19898.08,17218.38
+2025-01,BU01,Construction France,CC1003,Finance,Matériel,7801.69,7070.46
+2025-01,BU01,Construction France,CC1003,Finance,Déplacements,2761.61,3212.12
+2025-01,BU01,Construction France ,CC1003,Finance,Énergie,7976.28,8907.67
+2025-01,BU02,Construction UK,CC2001,IT,Logiciels,6062.99,5348.97
+2025-01,BU02,Construction UK,CC2001,IT,Prestations externes,10444.86,10395.25
+2025-01,BU02,Construction UK,CC2001,IT,Salaires,14818.01,15016.7
+2025-01,BU02,Construction UK,CC2001,IT,Matériel,5394.43,6204.01
+2025-01,BU02,Construction UK,CC2001,IT,Déplacements,3168.44,3385.9
+2025-01,BU02,Construction UK,CC2001,IT,Énergie,5622.16,5743.72
+2025-01,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,7007.17,6383.55
+2025-01,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,11985.76,13253.78
+2025-01,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,23646.59,27082.27
+2025-01,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,7761.18,8958.1
+2025-01,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,2810.83,2571.0
+2025-01,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,,4463.99
+2025-01,BU02,Construction UK,CC2003,Finance,Logiciels,6390.84,6004.48
+2025-01,BU02,Construction UK,CC2003,Finance,Prestations externes,11225.18,10862.93
+2025-01,BU02,Construction UK,CC2003,Finance,Salaires,16534.09,17015.06
+2025-01,BU02,Construction UK,CC2003,Finance,Matériel,5841.88,6512.09
+2025-01,BU02,Construction UK,CC2003,Finance,Déplacements,2781.56,3270.2
+2025-01,BU02,Construction UK,CC2003,Finance,Énergie,7280.08,6665.47
+2025-01,BU03,Energie,CC3001,IT,Logiciels,4896.54,5479.72
+2025-01,BU03,Energie,CC3001,IT,Prestations externes,10567.03,11524.11
+2025-01,BU03,Energie,CC3001,IT,Salaires,21829.72,19088.67
+2025-01,BU03,Energie,CC3001,IT,Matériel,6755.56,6000.53
+2025-01,BU03,Energie,CC3001,IT,Déplacements,4437.52,4684.64
+2025-01,BU03,Energie,CC3001,IT,Énergie,5691.23,4956.92
+2025-01,BU03,Energie,CC3002,Maintenance,Logiciels,6087.83,5827.94
+2025-01,BU03,Energie,CC3002,Maintenance,Prestations externes,10689.87,11335.48
+2025-01,BU03,Energie,CC3002,Maintenance,Salaires,23081.9,23216.49
+2025-01,BU03,Energie,CC3002,Maintenance,Matériel,5752.3,6243.37
+2025-01,BU03,Energie,CC3002,Maintenance,Déplacements,4222.65,4371.38
+2025-01,BU03,Energie,CC3002,Maintenance,Énergie,7275.48,-500.0
+2025-01,BU03,Energie,CC3003,Finance,Logiciels,6913.66,6852.05
+2025-01,BU03,Energie,CC3003,Finance,Prestations externes,6887.26,6099.39
+2025-01,BU03,Energie,CC3003,Finance,Salaires,13839.44,14670.01
+2025-01,BU03,Energie,CC3003,Finance,Matériel,6570.3,6687.43
+2025-01,BU03,Energie,CC3003,Finance,Déplacements,4530.89,4224.0
+2025-01,BU03,Energie,CC3003,Finance,Énergie,5977.38,6571.12
+2025-01,BU04,Infrastructures,CC4001,IT,Logiciels,5767.31,5048.73
+2025-01,BU04,Infrastructures,CC4001,IT,Prestations externes,8314.66,7509.82
+2025-01,BU04,Infrastructures,CC4001,IT,Salaires,23540.73,26287.46
+2025-01,BU04,Infrastructures,CC4001,IT,Matériel,7910.3,8998.61
+2025-01,BU04,Infrastructures,CC4001,IT,Déplacements,4312.71,3931.33
+2025-01,BU04,Infrastructures,CC4001,IT,Énergie,7713.21,7929.05
+2025-01,BU04,Infrastructures,CC4002,Maintenance,Logiciels,8024.02,9193.2
+2025-01,BU04,Infrastructures,CC4002,IT ,Prestations externes,8467.22,7504.64
+2025-01,BU04,Infrastructures,CC4002,Maintenance,Salaires,15961.7,15817.18
+2025-01,BU04,Infrastructures,CC4002,Maintenance,Matériel,8685.66,9849.9
+2025-01,BU04,Infrastructures,CC4002,Maintenance,Déplacements,2639.6,2688.56
+2025-01,BU04,Infrastructures,CC4002,Maintenance,Énergie,6002.68,5542.25
+2025-01,BU04,Infrastructures,CC4003,Finance,Logiciels,5342.47,5136.32
+2025-01,BU04,Infrastructures,CC4003,Finance,Prestations externes,11841.71,11328.46
+2025-01,BU04,Infrastructures,CC4003,Finance,Salaires,19102.94,20669.31
+2025-01,BU04,Infrastructures,CC4003,Finance,Matériel,6777.24,7934.04
+2025-01,BU04,Infrastructures,CC4003,Finance,Déplacements,4646.14,4335.26
+2025-01,BU04,Infrastructures,CC4003,Finance,Énergie,6290.09,5971.12
+2025-02,BU01,Construction France,CC1001,IT,Logiciels,5985.88,5160.86
+2025-02,BU01,Construction France,CC1001,IT,Prestations externes,10041.65,10201.15
+2025-02,BU01,Construction France,CC1001,IT,Salaires,14055.97,13240.07
+2025-02,BU01,Construction France,CC1001,IT,Matériel,9064.72,8421.62
+2025-02,BU01,Construction France,CC1001,IT,Déplacements,2929.28,2963.02
+2025-02,BU01,Construction France,CC1001,IT,Énergie,8048.34,7483.98
+2025-02,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,7496.33,8255.97
+2025-02,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,8033.24,8758.74
+2025-02,BU01,Construction France,CC1002,Ressources Humaines,Salaires,17472.06,18496.98
+2025-02,BU01,Construction France,CC1002,Ressources Humaines,Matériel,7910.82,8122.88
+2025-02,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,2814.61,3168.26
+2025/08,BU01,Construction France,CC1002,Ressources Humaines,Énergie,5654.81,5154.65
+2025-02,BU01,Construction France,CC1003,Finance,Logiciels,5034.02,5260.53
+2025-02,BU01,Construction France,CC1003,Finance,Prestations externes,10408.85,8904.5
+2025-02,BU01,Construction France,CC1003,Finance,Salaires,19030.61,17598.43
+2025-02,BU01,Construction France,CC1003,Finance,Matériel,7959.73,7223.78
+2025-02,BU01,Construction France,CC1003,Finance,Déplacements,4075.97,3984.76
+2025-02,BU01,Construction France,CC1003,Finance,Énergie,7872.23,7048.65
+2025-02,BU02,Construction UK,CC2001,IT,Logiciels,6205.16,5506.74
+2025-02,BU02,Construction UK,CC2001,IT,Prestations externes,11743.35,13381.8
+2025-02,BU02,Construction UK,CC2001,IT,Salaires,16285.77,17389.86
+2025-02,BU02,Construction UK,CC2001,IT,Matériel,8682.33,8970.73
+2025-02,BU02,Construction UK,CC2001,IT,Déplacements,3737.27,3474.95
+2025-02,BU02,Construction UK,CC2001,IT,Énergie,4835.17,5541.5
+2025-02,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,8386.63,8880.8
+2025-02,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,8580.76,8282.49
+2025-02,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,21340.32,19633.0944
+2025-02,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,8975.76,9939.39
+2025-02,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,3973.27,3487.6
+2025-02,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,5081.86,5826.47
+2025-02,BU02,Construction UK,CC2003,Finance,Logiciels,7240.07,6176.04
+2025-02,BU02,Construction UK,CC2003,Finance,Prestations externes,7297.95,7801.18
+2025-02,BU02,Construction UK,CC2003,Finance,Salaires,13554.67,12240.77
+2025-02,BU02,Construction UK,CC2003,Finance,Matériel,7554.68,8146.41
+2025-02,BU02,Construction UK,CC2003,Finance,Déplacements,3994.12,3690.6
+2025-02,BU02,Construction UK,CC2003,Finance,Énergie,7063.85,6557.31
+2025-02,BU03,Energie,CC3001,IT,Logiciels,6144.06,6735.99
+2025-02,BU03,Energie,CC3001,IT,Prestations externes,10258.02,11594.06
+2025-02,BU03,Energie,CC3001,IT,Salaires,20602.22,21375.66
+2025-02,BU03,Energie,CC3001,IT,Matériel,5643.43,5481.73
+2025-02,BU03,Energie,CC3001,IT,Déplacements,3181.92,2960.83
+2025-02,BU03,Energie,CC3001,IT,Énergie,8002.84,7840.56
+2025-02,BU03,Energie,CC3002,Maintenance,Logiciels,8353.98,8840.82
+2025-02,BU03,Energie,CC3002,Maintenance,Prestations externes,11041.98,11217.22
+2025-02,BU03,Energie,CC3002,Maintenance,Salaires,19730.56,19977.8
+2025-02,BU03,Energie,CC3002,Maintenance,Matériel,6070.02,6606.67
+2025-02,BU03,Energie,CC3002,Maintenance,Déplacements,3214.62,2758.22
+2025-02,BU03,Energie,CC3002,Maintenance,Énergie,6823.7,6198.97
+2025-02,BU03,Energie,CC3003,Finance,Logiciels,8542.79,9950.61
+2025-02,BU03,Energie,CC3003,Finance,Prestations externes,11690.27,11364.72
+2025-02,BU03,Energie,CC3003,Finance,Salaires,13666.93,15803.69
+2025-02,BU03,Energie,CC3003,Finance,Matériel,7048.37,8239.52
+2025-02,BU03,Energie,CC3003,Finance,Déplacements,4648.6,5259.86
+2025-02,BU03,Energie,CC3003,Finance,Énergie,5560.02,5432.59
+2025-02,BU04,Infrastructures,CC4001,IT,Logiciels,8194.43,7822.28
+2025-02,BU04,Infrastructures,CC4001,IT,Prestations externes,7665.26,7923.92
+2025-02,BU04,Infrastructures,CC4001,IT,Salaires,23610.47,25491.99
+2025-02,BU04,Infrastructures,CC4001,IT,Matériel,7644.26,6742.76
+2025-02,BU04,Infrastructures,CC4001,IT,Déplacements,3916.52,4608.63
+2025-02,BU04,Infrastructures,CC4001,IT,Énergie,5004.3,5109.64
+2025-02,BU04,Infrastructures,CC4002,Maintenance,Logiciels,8296.75,9080.41
+2025-02,BU04,Infrastructures,CC4002,Maintenance,Prestations externes,10513.89,11374.13
+2025-02,BU04,Infrastructures,CC4002,Maintenance,Salaires,17382.5,16459.24
+2025-02,BU04,Infrastructures,CC4002,Maintenance,Matériel,8649.32,9664.21
+2025-02,BU04,Infrastructures,CC4002,Maintenance,Déplacements,4445.85,5118.82
+2025-02,BU04,Infrastructures,CC4002,Maintenance,Énergie,6340.83,6439.12
+2025-02,BU04,Infrastructures,CC4003,Finance,Logiciels,7988.35,8503.5
+2025-02,BU04,Infrastructures,CC4003,Finance,Prestations externes,10540.62,11727.62
+2025-02,BU04,Infrastructures,CC4003,Finance,Salaires,23112.06,22223.13
+2025-02,BU04,Infrastructures,CC4003,Finance,Matériel,6827.45,6015.08
+2025-02,BU04,Infrastructures,CC4003,Finance,Déplacements,3839.39,3309.02
+2025-02,BU04,Infrastructures,CC4003,Finance,Énergie,6176.15,6355.71
+2025-03,BU01,Construction France,CC1001,IT,Logiciels,5992.51,6262.02
+2025-03,BU01,Construction France,CC1001,IT,Prestations externes,6914.7,5962.72
+2025-03,BU01,Construction France,CC1001,IT,Salaires,22384.09,21687.11
+2025-03,BU01,Construction France,CC1001,IT,Matériel,5783.65,5912.86
+2025-03,BU01,Construction France,CC1001,IT,Déplacements,4241.99,3907.81
+2025-03,BU01,Construction France,CC1001,IT,Énergie,6742.41,5920.94
+2025-03,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,5076.56,5205.23
+2025-03,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,9669.43,10253.0
+2025-03,BU01,Construction France,CC1002,Ressources Humaines,Salaires,21341.79,25013.24
+2025-03,BU01,Construction France,CC1002,Ressources Humaines,Matériel,7418.46,7096.32
+2025-03,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,4294.89,4034.51
+2025-03,BU01,Construction France,CC1002,Ressources Humaines,Énergie,6080.3,5325.68
+2025-03,BU01,Construction France,CC1003,Finance,Logiciels,4973.87,5807.86
+2025-03,BU01,Construction France,CC1003,Finance,Prestations externes,11264.29,12161.74
+2025-03,BU01,Construction France,CC1003,Finance,Salaires,17916.69,16253.79
+2025-03,BU01,Construction France,CC1003,Finance,Matériel,5907.04,5508.78
+2025-03,BU01,Construction France,CC1003,Finance,Déplacements,3778.38,4102.62
+2025-03,BU01,Construction France,CC1003,Finance,Énergie,6876.71,6480.46
+2025-03,BU02,Construction UK,CC2001,IT,Logiciels,8598.97,9403.03
+2025-03,BU02,Construction UK,CC2001,IT,Prestations externes,9743.51,10248.89
+2025-03,BU02,Construction UK,CC2001,IT,Salaires,18031.68,16801.04
+2025-03,BU02,Construction UK,CC2001,IT,Matériel,6745.09,7420.2
+2025-03,BU02,Construction UK,CC2001,IT,Déplacements,2655.23,2358.65
+2025-03,BU02,Construction UK,CC2001,IT,Énergie,4665.61,4028.48
+2025-03,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,8211.3,8886.32
+2025-03,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,9310.54,8214.55
+2025-03,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,18809.45,18926.93
+2025-03,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,5977.45,5936.63
+2025-03,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,3461.86,3646.14
+2025-03,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,6786.34,5869.84
+2025-03,BU02,Construction UK,CC2003,Finance,Logiciels,6335.99,6694.19
+2025-03,BU02,Construction UK,CC2003,Finance,Prestations externes,9466.94,10722.65
+2025-03,BU02,Construction UK,CC2003,Finance,Salaires,20613.89,18630.18
+2025-03,BU02,Construction UK,CC2003,Finance,Matériel,5546.39,5890.26
+2025-03,BU02,Construction UK,CC2003,Finance,Déplacements,2680.67,2796.76
+2025-03,BU02,Construction UK,CC2003,Finance,Énergie,7884.83,8199.48
+2025-03,BU03,Energie,CC3001,IT,Logiciels,6388.86,6786.79
+2025-03,BU03,Energie,CC3001,IT,Prestations externes,9224.57,11807.4496
+2025-03,BU03,Energie,CC3001,IT,Salaires,23667.82,23133.26
+2025-03,BU03,Energie,CC3001,IT,Matériel,9287.0,10668.59
+2025-03,BU03,Energie,CC3001,IT,Déplacements,3036.16,2650.23
+2025-03,BU03,Energie,CC3001,IT,Énergie,4862.8,4162.62
+2025-03,BU03,Energie,CC3002,Maintenance,Logiciels,5243.33,5638.63
+2025-03,BU03,Energie,CC3002,Maintenance,Prestations externes,7134.42,6815.24
+2025-03,BU03,Energie,CC3002,Maintenance,Salaires,22624.65,19404.71
+2025-03,BU03,Energie,CC3002,Maintenance,Matériel,8670.77,8176.64
+2025-03,BU03,Energie,CC3002,Maintenance,Déplacements,2873.15,3102.78
+2025-03,BU03,Energie,CC3002,Maintenance,Énergie,6764.19,7708.24
+2025-03,BU03,Energie,CC3003,Finance,Logiciels,7741.78,8633.23
+2025-03,BU03,Energie,CC3003,Finance,Prestations externes,8272.99,7516.46
+2025-03,BU03,Energie,CC3003,Finance,Salaires,21606.64,24118.53
+2025-03,BU03,Energie,CC3003,Finance,Matériel,9410.12,9279.92
+2025-03,BU03,Energie,CC3003,Finance,Déplacements,3406.24,3768.04
+2025-03,BU03,Energie,CC3003,Finance,Énergie,5726.89,6626.87
+2025-03,BU04,Infrastructures,CC4001,IT,Logiciels,8222.81,8153.48
+2025-03,BU04,Infrastructures,CC4001,IT,Prestations externes,10804.7,11874.36
+2025-03,BU04,Infrastructures,CC4001,IT,Salaires,14613.74,16774.27
+2025-03,BU04,Infrastructures,CC4001,IT,Matériel,7372.06,8276.84
+2025-03,BU04,Infrastructures,CC4001,IT,Déplacements,3297.1,3776.91
+2025-03,BU04,Infrastructures,CC4001,IT,Énergie,5901.13,5037.06
+2025-03,BU04,Infrastructures,CC4002,Maintenance,Logiciels,8405.99,7398.32
+2025-03,BU04,Infrastructures,CC4002,Maintenance,Prestations externes,8474.29,9860.01
+2025-03,BU04,Infrastructures,CC4002,Maintenance,Salaires,23766.56,24699.03
+2025-03,BU04,Infrastructures,CC4002,Maintenance,Matériel,7903.72,7887.81
+2025-03,BU04,Infrastructures,CC4002,Maintenance,Déplacements,3240.74,3106.12
+2025-03,BU04,Infrastructures,CC4002,Maintenance,Énergie,6921.07,7601.29
+2025-03,BU04,Infrastructures,CC4003,Finance,Logiciels,7962.16,8842.57
+2025-03,BU04,Infrastructures,CC4003,Finance,Prestations externes,7242.51,7337.82
+2025-03,BU04,Infrastructures,CC4003,Finance,Salaires,14121.63,14564.27
+2025-03,BU04,Infrastructures,CC4003,Finance,Matériel,7104.43,8119.95
+2025-03,BU04,Infrastructures,CC4003,Finance,Déplacements,3361.92,2987.51
+2025-03,BU04,Infrastructures,CC4003,Finance,Énergie,5014.77,5522.76
+2025-04,BU01,Construction France,CC1001,IT,Logiciels,7286.05,6436.28
+2025-04,BU01,Construction France,CC1001,IT,Prestations externes,7204.18,7790.02
+2025-04,BU01,Construction France,CC1001,IT,Salaires,14285.84,16017.48
+2025-04,BU01,Construction France,CC1001,IT,Matériel,8216.22,7204.35
+2025-04,BU01,Construction France,CC1001,IT,Déplacements,2803.16,3295.37
+2025-04,BU01,Construction France,CC1001,IT,Énergie,5847.37,5685.47
+2025-04,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,8044.92,9352.96
+2025-04,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,12074.41,13265.12
+2025-04,BU01,Construction France,CC1002,Ressources Humaines,Salaires,17563.6,15413.03
+2025-04,BU01,Construction France,CC1002,Ressources Humaines,Matériel,8514.02,8805.82
+2025-04,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,3515.87,4040.07
+2025-04,BU01,Construction France,CC1002,Ressources Humaines,Énergie,4900.31,4961.89
+2025-04,BU01,Construction France,CC1003,Finance,Logiciels,4919.28,4942.19
+2025-04,BU01,Construction France,CC1003,Finance,Prestations externes,7054.04,6272.52
+2025-04,BU01,Construction France,CC1003,Finance,Salaires,14769.28,15718.05
+2025-04,BU01,Construction France,CC1003,Finance,Matériel,8383.39,8739.78
+2025-04,BU01,Construction France,CC1003,Finance,Déplacements,4645.56,4523.42
+2025-04,BU01,Construction France,CC1003,Finance,Énergie,5528.56,6283.97
+2025-04,BU02,Construction UK,CC2001,IT,Logiciels,5747.02,6711.74
+2025-04,BU02,Construction UK,CC2001,IT,Prestations externes,6815.63,7974.7
+2025-04,BU02,Construction UK,CC2001,IT,Salaires,13966.13,15978.33
+2025-04,BU02,Construction UK,CC2001,IT,Matériel,7466.34,8792.95
+2025-04,BU02,Construction UK,CC2001,IT,Déplacements,2779.97,2871.08
+2025-04,BU02,Construction UK,CC2001,IT,Énergie,7989.49,8170.23
+2025-04,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,7329.65,7913.07
+2025-04,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,9204.52,9730.05
+2025-04,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,19810.59,22730.32
+2025-04,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,5440.87,5129.21
+2025-04,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,4620.86,5285.28
+2025-04,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,6140.36,6475.9
+2025-04,BU02,Construction UK,CC2003,Finance,Logiciels,5956.79,5433.07
+2025-04,BU02,Construction UK,CC2003,Finance,Prestations externes,9253.97,8944.95
+2025-04,BU02,Construction UK,CC2003,Finance,Salaires,19803.49,17340.97
+2025-04,BU02,Construction UK,CC2003,Finance,Matériel,9342.46,10981.59
+2025-04,BU02,Construction UK,CC2003,Finance,Déplacements,4091.14,4201.24
+2025-04,BU02,Construction UK,CC2003,Finance,Énergie,5614.3,6279.89
+2025-04,BU03,Energie,CC3001,IT,Logiciels,7545.45,6818.55
+2025-04,BU03,Energie,CC3001,IT,Prestations externes,11669.01,13086.06
+2025-04,BU03,Energie,CC3001,IT,Salaires,23757.84,25883.87
+2025-04,BU03,Energie,CC3001,IT,Matériel,7826.34,7732.59
+2025-04,BU03,Energie,CC3001,IT,Déplacements,4583.73,5206.21
+2025-04,BU03,Energie,CC3001,IT,Énergie,4662.79,4003.94
+2025-04,BU03,Energie,CC3002,Maintenance,Logiciels,6343.21,7088.42
+2025-04,BU03,Energie,CC3002,Maintenance,Prestations externes,12081.29,10868.78
+2025-04,BU03,Energie,CC3002,Maintenance,Salaires,19916.61,19432.52
+2025-04,BU03,Energie,CC3002,Maintenance,Matériel,9323.64,10516.13
+2025-04,BU03,Energie,CC3002,Maintenance,Déplacements,4385.49,4405.97
+2025-04,BU03,Energie,CC3002,Maintenance,Énergie,5993.35,5635.09
+2025-04,BU03,Energie,CC3003,Finance,Logiciels,5094.86,5784.5
+2025-04,BU03,Energie,CC3003,Finance,Prestations externes,11139.67,13143.77
+2025-04,BU03,Energie,CC3003,Finance,Salaires,24263.68,25071.48
+2025-04,BU03,Energie,CC3003,Finance,Matériel,8479.75,9851.54
+2025-04,BU03,Energie,CC3003,Finance,Déplacements,4409.26,4107.78
+2025-04,BU03,Energie,CC3003,Finance,Énergie,6121.96,5464.6
+2025-04,BU04,Infrastructures,CC4001,IT,Logiciels,8595.8,9025.91
+2025-04,BU04,Infrastructures,CC4001,IT,Prestations externes,7984.67,8556.86
+2025-04,BU04,Infrastructures,CC4001,IT,Salaires,20175.78,19534.07
+2025-04,BU04,Infrastructures,CC4001,IT,Matériel,5726.94,6137.1
+2025-04,BU04,Infrastructures,CC4001,IT,Déplacements,3717.65,4107.5
+2025-04,BU04,Infrastructures,CC4001,IT,Énergie,6372.59,7208.8
+2025-04,BU04,Infrastructures,CC4002,Maintenance,Logiciels,7027.44,7274.17
+2025-04,BU04,Infrastructures,CC4002,Maintenance,Prestations externes,11483.93,11290.42
+2025-04,BU04,Infrastructures,CC4002,Maintenance,Salaires,14947.36,12847.23
+2025-04,BU04,Infrastructures,CC4002,Maintenance,Matériel,8421.58,8882.25
+2025-04,BU04,Infrastructures,CC4002,Maintenance,Déplacements,4103.57,3776.42
+2025-04,BU04,Infrastructures,CC4002,Maintenance,Énergie,4990.94,4266.25
+2025-04,BU04,Infrastructures,CC4003,Finance,Logiciels,6242.29,6521.15
+2025-04,BU04,Infrastructures,CC4003,Finance,Prestations externes,8868.12,8818.16
+2025-04,BU04,Infrastructures,CC4003,Finance,Salaires,23264.91,22448.88
+2025-04,BU04,Infrastructures,CC4003,Finance,Matériel,7408.76,8213.39
+2025-04,BU04,Infrastructures,CC4003,Finance,Déplacements,3457.74,3648.91
+2025-04,BU04,Infrastructures,CC4003,Finance,Énergie,7604.51,8846.64
+2025-05,BU01,Construction France,CC1001,IT,Logiciels,5448.59,20448.59
+2025-05,BU01,Construction France,CC1001,IT,Prestations externes,9407.43,8798.02
+2025-05,BU01,Construction France,CC1001,IT,Salaires,18458.67,21659.6
+2025-05,BU01,Construction France,CC1001,IT,Matériel,7319.0,7015.17
+2025-05,BU01,Construction France,CC1001,IT,Déplacements,3955.14,3675.31
+2025-05,BU01,Construction France,CC1001,IT,Énergie,4773.11,4260.14
+2025-05,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,5374.38,4837.63
+2025-05,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,7499.67,7960.81
+2025-05,BU01,Construction France,CC1002,Ressources Humaines,Salaires,15464.3,14908.68
+2025-05,BU01,Construction France,CC1002,Ressources Humaines,Matériel,9016.51,9074.28
+2025-05,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,4026.87,3651.83
+2025-05,BU01,Construction France,CC1002,Ressources Humaines,Énergie,5192.24,4483.43
+2025-05,BU01,Construction France,CC1003,Finance,Logiciels,5533.85,5212.52
+2025-05,BU01,Construction France,CC1003,Finance,Prestations externes,7705.86,6775.54
+2025-05,BU01,Construction France,CC1003,Finance,Salaires,14802.87,14833.32
+2025-05,BU01,Construction France,CC1003,Finance,Matériel,6116.6,5934.38
+2025-05,BU01,Construction France,CC1003,Finance,Déplacements,3682.18,3968.76
+2025-05,BU01,Construction France,CC1003,Finance,Énergie,4641.52,5169.75
+2025-05,BU02,Construction UK,CC2001,IT,Logiciels,7323.81,6422.84
+2025-05,BU02,Construction UK,CC2001,IT,Prestations externes,11467.32,13232.01
+2025-05,BU02,Construction UK,CC2001,IT,Salaires,14159.64,13329.46
+2025-05,BU02,Construction UK,CC2001,IT,Matériel,8636.05,9473.1
+2025-05,BU02,Construction UK,CC2001,IT,Déplacements,3012.49,2768.74
+2025-05,BU02,Construction UK,CC2001,IT,Énergie,5833.7,5891.41
+2025-05,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,7286.19,7080.3
+2025-05,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,9247.69,10141.62
+2025-05,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,13896.18,12969.36
+2025-05,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,8246.07,9445.2
+2025-05,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,3699.52,3794.22
+2025-05,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,4885.82,4874.32
+2025-05,BU02,Construction UK,CC2003,Finance,Logiciels,6952.21,6465.66
+2025-05,BU02,Construction UK,CC2003,Finance,Prestations externes,8203.91,7994.74
+2025-05,BU02,Construction UK,CC2003,Finance,Salaires,13716.77,13117.16
+2025-05,BU02,Construction UK,CC2003,Finance,Matériel,6138.08,5880.74
+2025-05,BU02,Construction UK,CC2003,Finance,Déplacements,2876.5,3290.35
+2025-05,BU02,Construction UK,CC2003,Finance,Énergie,6636.93,7128.75
+2025-05,BU03,Energie,CC3001,IT,Logiciels,7952.77,8067.97
+2025-05,BU03,Energie,CC3001,IT,Prestations externes,7219.37,7416.06
+2025-05,BU03,Energie,CC3001,IT,Salaires,19837.88,21742.22
+2025-05,BU03,Energie,CC3001,IT,Matériel,7062.97,6300.89
+2025-05,BU03,Energie,CC3001,IT,Déplacements,3220.93,3123.71
+2025-05,BU03,Energie,CC3001,IT,Énergie,6825.3,7087.1
+2025-05,BU03,Energie,CC3002,Maintenance,Logiciels,6263.78,7363.38
+2025-05,BU03,Energie,CC3002,Maintenance,Prestations externes,10021.18,9302.51
+2025-05,BU03,Energie,CC3002,Maintenance,Salaires,14599.25,13145.8
+2025-05,BU03,Energie,CC3002,Maintenance,Matériel,6283.02,5673.73
+2025-05,BU03,Energie,CC3002,Maintenance,Déplacements,3016.79,2848.1
+2025-05,BU03,Energie,CC3002,Maintenance,Énergie,5124.14,5871.92
+2025-05,BU03,Energie,CC3003,Finance,Logiciels,5187.91,5307.69
+2025-05,BU03,Energie,CC3003,Finance,Prestations externes,8966.14,10527.91
+2025-05,BU03,Energie,CC3003,Finance,Salaires,14710.02,14434.83
+2025-05,BU03,Energie,CC3003,Finance,Matériel,9321.78,10585.97
+2025-05,BU03,Energie,CC3003,Finance,Déplacements,4340.85,4059.16
+2025-05,BU03,Energie,CC3003,Finance,Énergie,5115.2,5476.6
+2025-05,BU04,Infrastructures,CC4001,IT,Logiciels,8499.57,8786.27
+2025-05,BU04,Infrastructures,CC4001,IT,Prestations externes,9836.71,9270.05
+2025-05,BU04,Infrastructures,CC4001,IT,Salaires,21810.52,19885.19
+2025-05,BU04,Infrastructures,CC4001,IT,Matériel,6609.45,6545.96
+2025-05,BU04,Infrastructures,CC4001,IT,Déplacements,3690.98,3432.6
+2025-05,BU04,Infrastructures,CC4001,IT,Énergie,4913.41,5166.48
+2025-05,BU04,Infrastructures,CC4002,Maintenance,Logiciels,6000.66,6251.54
+2025-05,BU04,Infrastructures,CC4002,Maintenance,Prestations externes,7583.56,7650.11
+2025-05,BU04,Infrastructures,CC4002,Maintenance,Salaires,19251.97,16693.41
+2025-05,BU04,Infrastructures,CC4002,Maintenance,Matériel,6663.74,5959.76
+2025-05,BU04,Infrastructures,CC4002,Maintenance,Déplacements,2758.09,3245.41
+2025-05,BU04,Infrastructures,CC4002,Maintenance,Énergie,5660.47,6324.21
+2025-05,BU04,Infrastructures,CC4003,Finance,Logiciels,5868.1,6307.6
+2025-05,BU04,Infrastructures,CC4003,Finance,Prestations externes,10855.23,11360.66
+2025-05,BU04,Infrastructures,CC4003,Finance,Salaires,18593.02,18331.0
+2025-05,BU04,Infrastructures,CC4003,Finance,Matériel,6715.25,7767.83
+2025-05,BU04,Infrastructures,CC4003,Finance,Déplacements,4369.3,5105.35
+2025-05,BU04,Infrastructures,CC4003,Finance,Énergie,4947.47,5398.61
+2025-06,BU01,Construction France,CC1001,IT,Logiciels,8534.53,7764.77
+2025-06,BU01,Construction France,CC1001,IT,Prestations externes,7109.08,7781.38
+2025-06,BU01,Construction France,CC1001,IT,Salaires,19704.31,22222.59
+2025-06,BU01,Construction France,CC1001,IT,Matériel,5837.04,6493.35
+2025-06,BU01,Construction France,CC1001,IT,Déplacements,3048.42,2755.79
+2025-06,BU01,Construction France,CC1001,IT,Énergie,5091.36,5696.26
+2025-06,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,7469.27,7638.16
+2025-06,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,8687.68,9899.41
+2025-06,BU01,Construction France,CC1002,Ressources Humaines,Salaires,17738.41,19857.75
+2025-06,BU01,Construction France,CC1002,Ressources Humaines,Matériel,7094.37,6912.69
+2025-06,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,3596.63,3414.83
+2025-06,BU01,Construction France,CC1002,Ressources Humaines,Énergie,7191.39,7305.72
+2025-06,BU01,Construction France,CC1003,Finance,Logiciels,5780.63,6629.57
+2025-06,BU01,Construction France,CC1003,Finance,Prestations externes,8823.01,9082.17
+2025-06,BU01,Construction France,CC1003,Finance,Salaires,23289.9,24594.1
+2025-06,BU01,Construction France,CC1003,Finance,Matériel,5740.97,6660.36
+2025-06,BU01,Construction France,CC1003,Finance,Déplacements,3943.19,3787.51
+2025-06,BU01,Construction France,CC1003,Finance,Énergie,5001.38,5561.68
+2025-06,BU02,Construction UK,CC2001,IT,Logiciels,7293.28,7483.22
+2025-06,BU02,Construction UK,CC2001,IT,Prestations externes,11577.02,12853.24
+2025-06,BU02,Construction UK,CC2001,IT,Salaires,15138.09,14424.6
+2025-06,BU02,Construction UK,CC2001,IT,Matériel,6293.65,6894.71
+2025-06,BU02,Construction UK,CC2001,IT,Déplacements,2695.42,2798.02
+2025-06,BU02,Construction UK,CC2001,IT,Énergie,7244.85,8254.3
+2025-06,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,6209.12,6960.51
+2025-06,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,7347.41,8297.65
+2025-06,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,14876.88,14595.78
+2025-06,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,8598.64,7734.24
+2025-06,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,3106.43,3380.86
+2025-06,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,7092.13,7528.86
+2025-06,BU02,Construction UK,CC2003,Finance,Logiciels,7581.4,7802.01
+2025-06,BU02,Construction UK,CC2003,Finance,Prestations externes,8109.71,7818.41
+2025-06,BU02,Construction UK,CC2003,Finance,Salaires,15461.26,17777.18
+2025-06,BU02,Construction UK,CC2003,Finance,Matériel,7700.25,7563.8
+2025-06,BU02,Construction UK,CC2003,Finance,Déplacements,3595.21,4179.81
+2025-06,BU02,Construction UK,CC2003,Finance,Énergie,5052.07,5271.61
+2025-06,BU03,Energie,CC3001,IT,Logiciels,6847.97,7202.55
+2025-06,BU03,Energie,CC3001,IT,Prestations externes,6847.79,8765.1712
+2025-06,BU03,Energie,CC3001,IT,Salaires,23566.88,24426.93
+2025-06,BU03,Energie,CC3001,IT,Matériel,8175.93,9438.5
+2025-06,BU03,Energie,CC3001,IT,Déplacements,4110.2,3700.57
+2025-06,BU03,Energie,CC3001,IT,Énergie,6574.64,6904.79
+2025-06,BU03,Energie,CC3002,Maintenance,Logiciels,6529.11,7136.49
+2025-06,BU03,Energie,CC3002,Maintenance,Prestations externes,11795.58,13629.06
+2025-06,BU03,Energie,CC3002,Maintenance,Salaires,18369.07,16300.13
+2025-06,BU03,Energie,CC3002,Maintenance,Matériel,9386.33,10576.86
+2025-06,BU03,Energie,CC3002,Maintenance,Déplacements,2886.79,3331.0
+2025-06,BU03,Energie,CC3002,Maintenance,Énergie,7631.63,7793.54
+2025-06,BU03,Energie,CC3003,Finance,Logiciels,7180.97,7049.35
+2025-06,BU03,Energie,CC3003,Finance,Prestations externes,7045.71,6768.22
+2025-06,BU03,Energie,CC3003,Finance,Salaires,22170.82,18879.08
+2025-06,BU03,Energie,CC3003,Finance,Matériel,6650.7,6526.96
+2025-06,BU03,Energie,CC3003,Finance,Déplacements,3753.53,4329.89
+2025-06,BU03,Energie,CC3003,Finance,Énergie,5746.85,5542.8
+2025-06,BU04,Infrastructures,CC4001,IT,Logiciels,7751.25,7745.3
+2025-06,BU04,Infrastructures,CC4001,IT,Prestations externes,7962.87,7957.33
+2025-06,BU04,Infrastructures,CC4001,IT,Salaires,15021.26,13642.42
+2025-06,BU04,Infrastructures,CC4001,IT,Matériel,7343.14,7256.83
+2025-06,BU04,Infrastructures,CC4001,IT,Déplacements,4546.18,4407.93
+2025-06,BU04,Infrastructures,CC4001,IT,Énergie,6590.12,6976.61
+2025-06,BU04,Infrastructures,CC4002,Maintenance,Logiciels,4926.07,5265.81
+2025-06,BU04,Infrastructures,CC4002,Maintenance,Prestations externes,7711.39,9000.38
+2025-06,BU04,Infrastructures,CC4002,Maintenance,Salaires,15105.56,14906.56
+2025-06,BU04,Infrastructures,CC4002,Maintenance,Matériel,5608.47,6612.21
+2025-06,BU04,Infrastructures,CC4002,Maintenance,Déplacements,3679.61,3850.63
+2025-06,BU04,Infrastructures,CC4002,Maintenance,Énergie,4741.48,5203.71
+2025-06,BU04,Infrastructures,CC4003,Finance,Logiciels,5693.63,6526.94
+2025-06,BU04,Infrastructures,CC4003,Finance,Prestations externes,7857.75,7173.56
+2025-06,BU04,Infrastructures,CC4003,Finance,Salaires,13894.74,13975.08
+2025-06,BU04,Infrastructures,CC4003,Finance,Matériel,7622.33,6644.26
+2025-06,BU04,Infrastructures,CC4003,Finance,Déplacements,4253.61,4251.84
+2025-06,BU04,Infrastructures,CC4003,Finance,Énergie,6387.8,6358.75
+2025-07,BU01,Construction France,CC1001,IT,Logiciels,6437.98,6661.25
+2025-07,BU01,Construction France,CC1001,IT,Prestations externes,7588.3,6905.63
+2025-07,BU01,Construction France,CC1001,IT,Salaires,22807.28,26507.04
+2025-07,BU01,Construction France,CC1001,IT,Matériel,6817.9,6404.36
+2025-07,BU01,Construction France,CC1001,IT,Déplacements,3977.4,3917.27
+2025-07,BU01,Construction France,CC1001,IT,Énergie,4591.39,4139.28
+2025-07,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,7667.29,8184.41
+2025-07,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,6896.32,6367.03
+2025-07,BU01,Construction France,CC1002,Ressources Humaines,Salaires,15995.61,17142.89
+2025-07,BU01,Construction France,CC1002,Ressources Humaines,Matériel,5332.78,4716.08
+2025-07,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,4304.82,3912.74
+2025-07,BU01,Construction France,CC1002,Ressources Humaines,Énergie,6849.89,6360.81
+2025-07,BU01,Construction France,CC1003,Finance,Logiciels,5262.82,4895.72
+2025-07,BU01,Construction France,CC1003,Finance,Prestations externes,10650.24,12060.12
+2025-07,BU01,Construction France,CC1003,Finance,Salaires,22466.37,22041.1
+2025-07,BU01,Construction France,CC1003,Finance,Matériel,8055.96,7392.51
+2025-07,BU01,Construction France,CC1003,Finance,Déplacements,3240.61,3713.06
+2025-07,BU01,Construction France,CC1003,Finance,Énergie,4546.81,3993.09
+2025-07,BU02,Construction UK,CC2001,IT,Logiciels,5685.76,4882.68
+2025-07,BU02,Construction UK,CC2001,IT,Prestations externes,7729.75,8057.52
+2025-07,BU02,Construction UK,CC2001,IT,Salaires,18051.39,20661.28
+2025-07,BU02,Construction UK,CC2001,IT,Matériel,8683.26,8360.24
+2025-07,BU02,Construction UK,CC2001,IT,Déplacements,3169.79,3091.49
+2025-07,BU02,Construction UK,CC2001,IT,Énergie,6625.06,6217.36
+2025-07,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,7309.18,7200.32
+2025-07,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,9731.05,9671.91
+2025-07,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,16680.23,19398.93
+2025-07,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,8457.14,7579.61
+2025-07,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,4448.78,4497.06
+2025-07,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,7720.39,8600.14
+2025-07,BU02,Construction UK,CC2003,Finance,Logiciels,6533.33,5601.78
+2025-07,BU02,Construction UK,CC2003,Finance,Prestations externes,8200.86,8436.54
+2025-07,BU02,Construction UK,CC2003,Finance,Salaires,20341.56,19021.46
+2025-07,BU02,Construction UK,CC2003,Finance,Matériel,5835.3,6567.78
+2025-07,BU02,Construction UK,CC2003,Finance,Déplacements,4692.24,4802.41
+2025-07,BU02,Construction UK,CC2003,Finance,Énergie,5118.05,4810.25
+2025-07,BU03,Energie,CC3001,IT,Logiciels,4946.72,5697.23
+2025-07,BU03,Energie,CC3001,IT,Prestations externes,7385.86,7683.14
+2025-07,BU03,Energie,CC3001,IT,Salaires,16459.8,17000.97
+2025-07,BU03,Energie,CC3001,IT,Matériel,7985.97,8974.75
+2025-07,BU03,Energie,CC3001,IT,Déplacements,3058.48,2610.81
+2025-07,BU03,Energie,CC3001,IT,Énergie,4992.79,5726.76
+2025-07,BU03,Energie,CC3002,Maintenance,Logiciels,8283.17,8673.69
+2025-07,BU03,Energie,CC3002,Maintenance,Prestations externes,9992.79,10686.91
+2025-07,BU03,Energie,CC3002,Maintenance,Salaires,15394.01,17730.14
+2025-07,BU03,Energie,CC3002,Maintenance,Matériel,7008.84,6843.68
+2025-07,BU03,Energie,CC3002,Maintenance,Déplacements,3714.73,3215.09
+2025-07,BU03,Energie,CC3002,Maintenance,Énergie,5098.62,5575.6
+2025-07,BU03,Energie,CC3003,Finance,Logiciels,5197.91,5452.82
+2025-07,BU03,Energie,CC3003,Finance,Prestations externes,8074.89,7901.01
+2025-07,BU03,Energie,CC3003,Finance,Salaires,16617.89,16075.68
+2025-07,BU03,Energie,CC3003,Finance,Matériel,8269.99,7840.37
+2025-07,BU03,Energie,CC3003,Finance,Déplacements,3814.45,3841.52
+2025-07,BU03,Energie,CC3003,Finance,Énergie,6889.22,7985.66
+2025-07,BU04,Infrastructures,CC4001,IT,Logiciels,7732.03,7120.66
+2025-07,BU04,Infrastructures,CC4001,IT,Prestations externes,6918.39,6479.4
+2025-07,BU04,Infrastructures,CC4001,IT,Salaires,19926.84,17275.98
+2025-07,BU04,Infrastructures,CC4001,IT,Matériel,7334.74,7679.16
+2025-07,BU04,Infrastructures,CC4001,IT,Déplacements,3326.91,3674.25
+2025-07,BU04,Infrastructures,CC4001,IT,Énergie,4883.75,4272.29
+2025-07,BU04,Infrastructures,CC4002,Maintenance,Logiciels,7714.94,7819.18
+2025-07,BU04,Infrastructures,CC4002,Maintenance,Prestations externes,10467.37,10399.26
+2025-07,BU04,Infrastructures,CC4002,Maintenance,Salaires,16161.14,18105.39
+2025-07,BU04,Infrastructures,CC4002,Maintenance,Matériel,8607.55,9289.69
+2025-07,BU04,Infrastructures,CC4002,Maintenance,Déplacements,3196.5,3339.63
+2025-07,BU04,Infrastructures,CC4002,Maintenance,Énergie,5799.51,5104.85
+2025-07,BU04,Infrastructures,CC4003,Finance,Logiciels,8452.52,7566.28
+2025-07,BU04,Infrastructures,CC4003,Finance,Prestations externes,11881.28,11847.8
+2025-07,BU04,Infrastructures,CC4003,Finance,Salaires,15499.44,15946.24
+2025-07,BU04,Infrastructures,CC4003,Finance,Matériel,8916.37,9733.42
+2025-07,BU04,Infrastructures,CC4003,Finance,Déplacements,4318.78,4609.86
+2025-07,BU04,Infrastructures,CC4003,Finance,Énergie,6992.2,7902.82
+2025-08,BU01,Construction France,CC1001,IT,Logiciels,5848.71,5916.03
+2025-08,BU01,Construction France,CC1001,IT,Prestations externes,7944.53,9342.22
+2025-08,BU01,Construction France,CC1001,IT,Salaires,23695.84,20449.77
+2025-08,BU01,Construction France,CC1001,IT,Matériel,8213.42,9489.22
+2025-08,BU01,Construction France,CC1001,IT,Déplacements,3004.21,3116.63
+2025-08,BU01,Construction France,CC1001,IT,Énergie,7795.76,6713.72
+2025-08,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,7594.94,7200.95
+2025-08,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,11741.74,13743.11
+2025-08,BU01,Construction France,CC1002,Ressources Humaines,Salaires,23698.08,23851.89
+2025-08,BU01,Construction France,CC1002,Ressources Humaines,Matériel,8870.58,10012.23
+2025-08,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,3295.11,3702.2
+2025-08,BU01,Construction France,CC1002,Ressources Humaines,Énergie,4633.23,4849.92
+2025-08,BU01,Construction France,CC1003,Finance,Logiciels,5772.03,5135.88
+2025-08,BU01,Construction France,CC1003,Finance,Prestations externes,7165.55,7737.18
+2025-08,BU01,Construction France,CC1003,Finance,Salaires,17170.65,18701.81
+2025-08,BU01,Construction France,CC1003,Finance,Matériel,5524.5,5270.62
+2025-08,BU01,Construction France,CC1003,Finance,Déplacements,3757.93,4174.83
+2025-08,BU01,Construction France,CC1003,Finance,Énergie,5647.51,5966.84
+2025-08,BU02,Construction UK,CC2001,IT,Logiciels,8330.31,8773.78
+2025-08,BU02,Construction UK,CC2001,IT,Prestations externes,8007.98,6871.27
+2025-08,BU02,Construction UK,CC2001,IT,Salaires,22897.07,19623.22
+2025-08,BU02,Construction UK,CC2001,IT,Matériel,8923.75,9142.82
+2025-08,BU02,Construction UK,CC2001,IT,Déplacements,4597.04,5119.26
+2025-08,BU02,Construction UK,CC2001,IT,Énergie,8092.56,7815.27
+2025-08,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,7867.03,7730.44
+2025-08,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,9341.33,9874.5
+2025-08,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,22935.71,21100.8532
+2025-08,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,8476.75,8373.87
+2025-08,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,3509.85,3837.68
+2025-08,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,5359.6,4751.05
+2025-08,BU02,Construction UK,CC2003,Finance,Logiciels,6258.03,5912.51
+2025-08,BU02,Construction UK,CC2003,Finance,Prestations externes,8350.06,7741.27
+2025-08,BU02,Construction UK,CC2003,Finance,Salaires,13954.61,11943.73
+2025-08,BU02,Construction UK,CC2003,Finance,Matériel,9398.43,9315.4
+2025-08,BU02,Construction UK,CC2003,Finance,Déplacements,3432.09,3687.03
+2025-08,BU02,Construction UK,CC2003,Finance,Énergie,5285.71,6149.86
+2025-08,BU03,Energie,CC3001,IT,Logiciels,7941.75,6984.81
+2025-08,BU03,Energie,CC3001,IT,Prestations externes,9004.94,10266.61
+2025-08,BU03,Energie,CC3001,IT,Salaires,23703.11,23803.67
+2025-08,BU03,Energie,CC3001,IT,Matériel,7826.33,7083.78
+2025-08,BU03,Energie,CC3001,IT,Déplacements,4706.45,4360.3
+2025-08,BU03,Energie,CC3001,IT,Énergie,7893.83,8402.07
+2025-08,BU03,Energie,CC3002,Maintenance,Logiciels,7245.17,7384.19
+2025-08,BU03,Energie,CC3002,Maintenance,Prestations externes,7995.62,7262.05
+2025-08,BU03,Energie,CC3002,Maintenance,Salaires,15881.25,14476.15
+2025-08,BU03,Energie,CC3002,Maintenance,Matériel,8524.25,8230.52
+2025-08,BU03,Energie,CC3002,Maintenance,Déplacements,2746.47,3212.83
+2025-08,BU03,Energie,CC3002,Maintenance,Énergie,7681.63,8881.18
+2025-08,BU03,Energie,CC3003,Finance,Logiciels,8755.14,7944.29
+2025-08,BU03,Energie,CC3003,Finance,Prestations externes,8889.71,9780.62
+2025-08,BU03,Energie,CC3003,Finance,Salaires,21017.02,18931.83
+2025-08,BU03,Energie,CC3003,Finance,Matériel,8676.5,8017.65
+2025-08,BU03,Energie,CC3003,Finance,Déplacements,3095.02,3179.21
+2025-08,BU03,Energie,CC3003,Finance,Énergie,6634.58,6909.44
+2025-08,BU04,Infrastructures,CC4001,IT,Logiciels,5231.8,5961.96
+2025-08,BU04,Infrastructures,CC4001,IT,Prestations externes,8184.24,7306.4
+2025-08,BU04,Infrastructures,CC4001,IT,Salaires,23098.48,26918.16
+2025-08,BU04,Infrastructures,CC4001,IT,Matériel,8870.94,9910.08
+2025-08,BU04,Infrastructures,CC4001,IT,Déplacements,4001.01,4128.17
+2025-08,BU04,Infrastructures,CC4001,IT,Énergie,4813.15,4739.94
+2025-08,BU04,Infrastructures,CC4002,Maintenance,Logiciels,6328.49,5921.68
+2025-08,BU04,Infrastructures,CC4002,Maintenance,Prestations externes,10656.47,10801.81
+2025-08,BU04,Infrastructures,CC4002,Maintenance,Salaires,14375.3,13263.52
+2025-08,BU04,Infrastructures,CC4002,Maintenance,Matériel,8119.69,7105.73
+2025-08,BU04,Infrastructures,CC4002,Maintenance,Déplacements,4412.53,4471.66
+2025-08,BU04,Infrastructures,CC4002,Maintenance,Énergie,6230.11,6513.55
+2025-08,BU04,Infrastructures,CC4003,Finance,Logiciels,8091.26,7806.26
+2025-08,BU04,Infrastructures,CC4003,Finance,Prestations externes,10411.29,10793.29
+2025-08,BU04,Infrastructures,CC4003,Finance,Salaires,16383.91,18676.8
+2025-08,BU04,Infrastructures,CC4003,Finance,Matériel,8599.19,9177.82
+2025-08,BU04,Infrastructures,CC4003,Finance,Déplacements,4411.22,5012.06
+2025-08,BU04,Infrastructures,CC4003,Finance,Énergie,7050.11,7939.93
+2025-09,BU01,Construction France,CC1001,IT,Logiciels,7595.14,8160.57
+2025-09,BU01,Construction France,CC1001,IT,Prestations externes,10090.5,11083.37
+2025-09,BU01,Construction France,CC1001,IT,Salaires,15212.94,17353.2
+2025-09,BU01,Construction France,CC1001,IT,Matériel,8911.74,7660.99
+2025-09,BU01,Construction France,CC1001,IT,Déplacements,4359.22,3890.72
+2025-09,BU01,Construction France,CC1001,IT,Énergie,5706.43,6250.58
+2025-09,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,5501.96,6161.81
+2025-09,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,11243.52,11439.89
+2025-09,BU01,Construction France,CC1002,Ressources Humaines,Salaires,13568.97,12818.91
+2025-09,BU01,Construction France,CC1002,Ressources Humaines,Matériel,7841.09,9203.81
+2025-09,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,3951.81,3697.85
+2025-09,BU01,Construction France,CC1002,Ressources Humaines,Énergie,6782.42,6973.65
+2025-09,BU01,Construction France,CC1003,Finance,Logiciels,7916.4,7008.41
+2025-09,BU01,Construction France,CC1003,Finance,Prestations externes,10859.55,11170.33
+2025-09,BU01,Construction France,CC1003,Finance,Salaires,23900.31,23011.65
+2025-09,BU01,Construction France,CC1003,Finance,Matériel,7907.01,9152.91
+2025-09,BU01,Construction France,CC1003,Finance,Déplacements,2840.27,3292.68
+2025-09,BU01,Construction France,CC1003,Finance,Énergie,6976.39,6086.11
+2025-09,BU02,Construction UK,CC2001,IT,Logiciels,6048.76,6555.02
+2025-09,BU02,Construction UK,CC2001,IT,Prestations externes,7113.69,7413.3
+2025-09,BU02,Construction UK,CC2001,IT,Salaires,17235.54,18181.8
+2025-09,BU02,Construction UK,CC2001,IT,Matériel,5442.12,6190.99
+2025-09,BU02,Construction UK,CC2001,IT,Déplacements,4669.33,5461.85
+2025-09,BU02,Construction UK,CC2001,IT,Énergie,7198.75,6427.97
+2025-09,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,7832.23,6720.94
+2025-09,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,6869.47,6572.65
+2025-09,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,18777.35,20734.59
+2025-09,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,8119.84,8096.68
+2025-09,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,3199.62,3772.51
+2025-09,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,6034.25,6027.96
+2025-09,BU02,Construction UK,CC2003,Finance,Logiciels,5513.13,6132.19
+2025-09,BU02,Construction UK,CC2003,Finance,Prestations externes,10495.88,9686.17
+2025-09,BU02,Construction UK,CC2003,Finance,Salaires,14389.72,15462.68
+2025-09,BU02,Construction UK,CC2003,Finance,Matériel,7998.95,7520.42
+2025-09,BU02,Construction UK,CC2003,Finance,Déplacements,4621.81,4158.93
+2025-09,BU02,Construction UK,CC2003,Finance,Énergie,6056.41,7033.87
+2025-09,BU03,Energie,CC3001,IT,Logiciels,6511.94,6907.3
+2025-09,BU03,Energie,CC3001,IT,Prestations externes,8897.01,11388.1728
+2025-09,BU03,Energie,CC3001,IT,Salaires,24126.96,23766.99
+2025-09,BU03,Energie,CC3001,IT,Matériel,9005.22,8337.8
+2025-09,BU03,Energie,CC3001,IT,Déplacements,3072.52,2643.21
+2025-09,BU03,Energie,CC3001,IT,Énergie,6846.0,6651.67
+2025-09,BU03,Energie,CC3002,Maintenance,Logiciels,8246.0,8296.79
+2025-09,BU03,Energie,CC3002,Maintenance,Prestations externes,11978.24,10914.86
+2025-09,BU03,Energie,CC3002,Maintenance,Salaires,22881.13,25312.87
+2025-09,BU03,Energie,CC3002,Maintenance,Matériel,8487.87,9580.93
+2025-09,BU03,Energie,CC3002,Maintenance,Déplacements,4223.15,4462.4
+2025-09,BU03,Energie,CC3002,Maintenance,Énergie,4972.48,4279.98
+2025-09,BU03,Energie,CC3003,Finance,Logiciels,8466.31,8919.21
+2025-09,BU03,Energie,CC3003,Finance,Prestations externes,11051.3,11149.68
+2025-09,BU03,Energie,CC3003,Finance,Salaires,14766.93,13161.93
+2025-09,BU03,Energie,CC3003,Finance,Matériel,8129.37,8064.35
+2025-09,BU03,Energie,CC3003,Finance,Déplacements,3046.1,3083.34
+2025-09,BU03,Energie,CC3003,Finance,Énergie,4731.15,4930.1
+2025-09,BU04,Infrastructures,CC4001,IT,Logiciels,5924.07,6594.65
+2025-09,BU04,Infrastructures,CC4001,IT,Prestations externes,8425.95,8427.83
+2025-09,BU04,Infrastructures,CC4001,IT,Salaires,13625.5,11907.43
+2025-09,BU04,Infrastructures,CC4001,IT,Matériel,6898.47,6956.28
+2025-09,BU04,Infrastructures,CC4001,IT,Déplacements,3885.04,3676.22
+2025-09,BU04,Infrastructures,CC4001,IT,Énergie,7001.93,7939.08
+2025-09,BU04,Infrastructures,CC4002,Maintenance,Logiciels,7916.42,6832.46
+2025-09,BU04,Infrastructures,CC4002,Maintenance,Prestations externes,9344.74,8266.61
+2025-09,BU04,Infrastructures,CC4002,Maintenance,Salaires,16114.09,18943.7
+2025-09,BU04,Infrastructures,CC4002,Maintenance,Matériel,5848.48,5934.06
+2025-09,BU04,Infrastructures,CC4002,Maintenance,Déplacements,3923.13,4244.09
+2025-09,BU04,Infrastructures,CC4002,Maintenance,Énergie,6514.74,5558.53
+2025-09,BU04,Infrastructures,CC4003,Finance,Logiciels,6148.2,6276.36
+2025-09,BU04,Infrastructures,CC4003,Finance,Prestations externes,7224.48,6976.73
+2025-09,BU04,Infrastructures,CC4003,Finance,Salaires,13858.59,12139.17
+2025-09,BU04,Infrastructures,CC4003,Finance,Matériel,6917.08,6182.46
+2025-09,BU04,Infrastructures,CC4003,Finance,Déplacements,3816.84,4112.73
+2025-09,BU04,Infrastructures,CC4003,Finance,Énergie,7382.11,6762.38
+2025-10,BU01,Construction France,CC1001,IT,Logiciels,5528.18,4889.72
+2025-10,BU01,Construction France,CC1001,IT,Prestations externes,10186.72,11033.62
+2025-10,BU01,Construction France,CC1001,IT,Salaires,13841.13,16041.18
+2025-10,BU01,Construction France,CC1001,IT,Matériel,5468.28,5624.82
+2025-10,BU01,Construction France,CC1001,IT,Déplacements,4114.03,4679.38
+2025-10,BU01,Construction France,CC1001,IT,Énergie,7070.71,7880.81
+2025-10,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,6198.86,6935.85
+2025-10,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,7182.62,8226.18
+2025-10,BU01,Construction France,CC1002,Ressources Humaines,Salaires,19414.0,21738.01
+2025-10,BU01,Construction France,CC1002,Ressources Humaines,Matériel,7149.74,7595.74
+2025-10,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,3730.45,4071.5
+2025-10,BU01,Construction France,CC1002,Ressources Humaines,Énergie,4793.87,4170.26
+2025-10,BU01,Construction France,CC1003,Finance,Logiciels,5838.7,5270.3
+2025-10,BU01,Construction France,CC1003,Finance,Prestations externes,11457.63,10567.84
+2025-10,BU01,Construction France,CC1003,Finance,Salaires,24039.34,23106.03
+2025-10,BU01,Construction France,CC1003,Finance,Matériel,6014.9,6680.15
+2025-10,BU01,Construction France,CC1003,Finance,Déplacements,4008.29,4066.02
+2025-10,BU01,Construction France,CC1003,Finance,Énergie,6499.31,7066.94
+2025-10,BU02,Construction UK,CC2001,IT,Logiciels,5765.97,6796.87
+2025-10,BU02,Construction UK,CC2001,IT,Prestations externes,12013.88,12790.07
+2025-10,BU02,Construction UK,CC2001,IT,Salaires,15655.06,16820.97
+2025-10,BU02,Construction UK,CC2001,IT,Matériel,5553.23,4776.42
+2025-10,BU02,Construction UK,CC2001,IT,Déplacements,3166.13,3174.57
+2025-10,BU02,Construction UK,CC2001,IT,Énergie,7625.78,8311.84
+2025-10,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,7771.56,7697.05
+2025-10,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,8618.05,8380.56
+2025-10,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,24166.62,20861.49
+2025-10,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,8891.53,9255.76
+2025-10,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,3546.09,3862.88
+2025-10,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,6252.01,7116.22
+2025-10,BU02,Construction UK,CC2003,Finance,Logiciels,8387.74,8296.88
+2025-10,BU02,Construction UK,CC2003,Finance,Prestations externes,8244.87,8619.81
+2025-10,BU02,Construction UK,CC2003,Finance,Salaires,23353.52,21474.0
+2025-10,BU02,Construction UK,CC2003,Finance,Matériel,7866.46,8325.98
+2025-10,BU02,Construction UK,CC2003,Finance,Déplacements,4164.54,3720.67
+2025-10,BU02,Construction UK,CC2003,Finance,Énergie,7076.97,8138.38
+2025-10,BU03,Energie,CC3001,IT,Logiciels,5575.76,5176.48
+2025-10,BU03,Energie,CC3001,IT,Prestations externes,11995.53,10912.61
+2025-10,BU03,Energie,CC3001,IT,Salaires,22727.36,23010.35
+2025-10,BU03,Energie,CC3001,IT,Matériel,6288.37,7152.06
+2025-10,BU03,Energie,CC3001,IT,Déplacements,3560.14,3630.95
+2025-10,BU03,Energie,CC3001,IT,Énergie,5793.24,6057.84
+2025-10,BU03,Energie,CC3002,Maintenance,Logiciels,5512.74,5397.29
+2025-10,BU03,Energie,CC3002,Maintenance,Prestations externes,11984.83,11208.02
+2025-10,BU03,Energie,CC3002,Maintenance,Salaires,20592.76,19713.71
+2025-10,BU03,Energie,CC3002,Maintenance,Matériel,8498.59,7590.84
+2025-10,BU03,Energie,CC3002,Maintenance,Déplacements,4661.62,4660.46
+2025-10,BU03,Energie,CC3002,Maintenance,Énergie,5349.78,4677.07
+2025-10,BU03,Energie,CC3003,Finance,Logiciels,5537.06,5656.24
+2025-10,BU03,Energie,CC3003,Finance,Prestations externes,8569.82,9628.46
+2025-10,BU03,Energie,CC3003,Finance,Salaires,18153.59,16920.52
+2025-10,BU03,Energie,CC3003,Finance,Matériel,7842.01,8494.75
+2025-10,BU03,Energie,CC3003,Finance,Déplacements,2975.79,2694.02
+2025-10,BU03,Energie,CC3003,Finance,Énergie,4632.02,5062.85
+2025-10,BU04,Infrastructures,CC4001,IT,Logiciels,7463.84,7513.31
+2025-10,BU04,Infrastructures,CC4001,IT,Prestations externes,11308.52,12618.85
+2025-10,BU04,Infrastructures,CC4001,IT,Salaires,19821.83,22528.09
+2025-10,BU04,Infrastructures,CC4001,IT,Matériel,6114.53,5423.18
+2025-10,BU04,Infrastructures,CC4001,IT,Déplacements,3191.47,2772.88
+2025-10,BU04,Infrastructures,CC4001,IT,Énergie,6412.21,7432.26
+2025-10,BU04,Infrastructures,CC4002,Maintenance,Logiciels,5028.44,4476.8
+2025-10,BU04,Infrastructures,CC4002,Maintenance,Prestations externes,9191.87,10645.83
+2025-10,BU04,Infrastructures,CC4002,Maintenance,Salaires,16914.49,17208.59
+2025-10,BU04,Infrastructures,CC4002,Maintenance,Matériel,5424.61,4876.47
+2025-10,BU04,Infrastructures,CC4002,Maintenance,Déplacements,4696.92,5488.3
+2025-10,BU04,Infrastructures,CC4002,Maintenance,Énergie,150000.0,165500.0
+2025-10,BU04,Infrastructures,CC4003,Finance,Logiciels,7367.57,8372.6
+2025-10,BU04,Infrastructures,CC4003,Finance,Prestations externes,9205.6,9391.06
+2025-10,BU04,Infrastructures,CC4003,Finance,Salaires,18779.54,20095.34
+2025-10,BU04,Infrastructures,CC4003,Finance,Matériel,5836.54,5018.79
+2025-10,BU04,Infrastructures,CC4003,Finance,Déplacements,3271.65,3541.71
+2025-10,BU04,Infrastructures,CC4003,Finance,Énergie,5226.67,5604.21
+2025-11,BU01,Construction France,CC1001,IT,Logiciels,8657.66,7627.29
+2025-11,BU01,Construction France,CC1001,IT,Prestations externes,10382.05,10345.07
+2025-11,BU01,Construction France,CC1001,IT,Salaires,22875.94,20781.86
+2025-11,BU01,Construction France,CC1001,IT,Matériel,8159.03,9191.78
+2025-11,BU01,Construction France,CC1001,IT,Déplacements,4608.69,4956.52
+2025-11,BU01,Construction France,CC1001,IT,Énergie,6289.83,6628.79
+2025-11,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,8263.73,8580.24
+2025-11,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,6914.09,8001.08
+2025-11,BU01,Construction France,CC1002,Ressources Humaines,Salaires,20946.89,22481.24
+2025-11,BU01,Construction France,CC1002,Ressources Humaines,Matériel,6155.84,6570.94
+2025-11,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,3452.12,3676.18
+2025-11,BU01,Construction France,CC1002,Ressources Humaines,Énergie,4883.73,5211.38
+2025-11,BU01,Construction France,CC1003,Finance,Logiciels,8772.71,7596.38
+2025-11,BU01,Construction France,CC1003,Finance,Prestations externes,12026.74,11837.68
+2025-11,BU01,Construction France,CC1003,Finance,Salaires,22904.14,25382.07
+2025-11,BU01,Construction France,CC1003,Finance,Matériel,7631.47,8346.45
+2025-11,BU01,Construction France,CC1003,Finance,Déplacements,4469.88,4395.53
+2025-11,BU01,Construction France,CC1003,Finance,Énergie,5677.32,6076.47
+2025-11,BU02,Construction UK,CC2001,IT,Logiciels,8025.6,8840.63
+2025-11,BU02,Construction UK,CC2001,IT,Prestations externes,11058.19,10989.0
+2025-11,BU02,Construction UK,CC2001,IT,Salaires,22332.61,19868.63
+2025-11,BU02,Construction UK,CC2001,IT,Matériel,7536.85,6420.65
+2025-11,BU02,Construction UK,CC2001,IT,Déplacements,3306.63,3210.51
+2025-11,BU02,Construction UK,CC2001,IT,Énergie,5926.22,6397.38
+2025-11,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,6390.38,6378.04
+2025-11,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,8032.74,7817.24
+2025-11,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,15954.51,13946.71
+2025-11,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,7784.48,8333.37
+2025-11,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,3925.93,3937.52
+2025-11,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,5867.23,6658.72
+2025-11,BU02,Construction UK,CC2003,Finance,Logiciels,6899.42,6955.51
+2025-11,BU02,Construction UK,CC2003,Finance,Prestations externes,6888.47,6630.92
+2025-11,BU02,Construction UK,CC2003,Finance,Salaires,17606.11,17282.36
+2025-11,BU02,Construction UK,CC2003,Finance,Matériel,7686.72,7887.26
+2025-11,BU02,Construction UK,CC2003,Finance,Déplacements,3901.6,4301.17
+2025-11,BU02,Construction UK,CC2003,Finance,Énergie,7426.75,8072.73
+2025-11,BU03,Energie,CC3001,IT,Logiciels,8601.54,7363.06
+2025-11,BU03,Energie,CC3001,IT,Prestations externes,7807.2,6655.61
+2025-11,BU03,Energie,CC3001,IT,Salaires,20492.73,23491.84
+2025-11,BU03,Energie,CC3001,IT,Matériel,6272.63,7250.66
+2025-11,BU03,Energie,CC3001,IT,Déplacements,2751.56,3187.31
+2025-11,BU03,Energie,CC3001,IT,Énergie,5765.84,5093.94
+2025-11,BU03,Energie,CC3002,Maintenance,Logiciels,6769.9,6328.07
+2025-11,BU03,Energie,CC3002,Maintenance,Prestations externes,8288.31,7885.55
+2025-11,BU03,Energie,CC3002,Maintenance,Salaires,22172.68,22791.81
+2025-11,BU03,Energie,CC3002,Maintenance,Matériel,6557.49,6894.61
+2025-11,BU03,Energie,CC3002,Maintenance,Déplacements,4128.92,3881.04
+2025-11,BU03,Energie,CC3002,Maintenance,Énergie,5988.78,5331.34
+2025-11,BU03,Energie,CC3003,Finance,Logiciels,5581.48,5998.8
+2025-11,BU03,Energie,CC3003,Finance,Prestations externes,7729.77,7909.9
+2025-11,BU03,Energie,CC3003,Finance,Salaires,21157.7,18730.26
+2025-11,BU03,Energie,CC3003,Finance,Matériel,7632.71,7134.03
+2025-11,BU03,Energie,CC3003,Finance,Déplacements,4647.15,4691.62
+2025-11,BU03,Energie,CC3003,Finance,Énergie,7401.57,7635.28
+2025-11,BU04,Infrastructures,CC4001,IT,Logiciels,5044.31,5341.62
+2025-11,BU04,Infrastructures,CC4001,IT,Prestations externes,11887.58,12464.5
+2025-11,BU04,Infrastructures,CC4001,IT,Salaires,22347.24,25515.81
+2025-11,BU04,Infrastructures,CC4001,IT,Matériel,6207.94,5711.14
+2025-11,BU04,Infrastructures,CC4001,IT,Déplacements,3908.06,3851.94
+2025-11,BU04,Infrastructures,CC4001,IT,Énergie,7523.5,8629.51
+2025-11,BU04,Infrastructures,CC4002,Maintenance,Logiciels,6253.34,5804.15
+2025-11,BU04,Infrastructures,CC4002,Maintenance,Prestations externes,10964.84,10314.47
+2025-11,BU04,Infrastructures,CC4002,Maintenance,Salaires,22384.23,22156.67
+2025-11,BU04,Infrastructures,CC4002,Maintenance,Matériel,8053.71,7099.56
+2025-11,BU04,Infrastructures,CC4002,Maintenance,Déplacements,3935.1,3931.5
+2025-11,BU04,Infrastructures,CC4002,Maintenance,Énergie,6611.79,5986.61
+2025-11,BU04,Infrastructures,CC4003,Finance,Logiciels,7748.81,8792.75
+2025-11,BU04,Infrastructures,CC4003,Finance,Prestations externes,7920.39,6982.51
+2025-11,BU04,Infrastructures,CC4003,Finance,Salaires,13755.3,14606.07
+2025-11,BU04,Infrastructures,CC4003,Finance,Matériel,7799.79,8036.99
+2025-11,BU04,Infrastructures,CC4003,Finance,Déplacements,3112.09,3046.73
+2025-11,BU04,Infrastructures,CC4003,Finance,Énergie,6640.11,6732.63
+2025-12,BU01,Construction France,CC1001,IT,Logiciels,8727.36,7811.21
+2025-12,BU01,Construction France,CC1001,IT,Prestations externes,10503.78,10329.68
+2025-12,BU01,Construction France,CC1001,IT,Salaires,18124.56,19697.9
+2025-12,BU01,Construction France,CC1001,IT,Matériel,8158.23,9603.17
+2025-12,BU01,Construction France,CC1001,IT,Déplacements,2894.63,2559.88
+2025-12,BU01,Construction France,CC1001,IT,Énergie,7107.62,7398.09
+2025-12,BU01,Construction France,CC1002,Ressources Humaines,Logiciels,5944.23,5208.38
+2025-12,BU01,Construction France,CC1002,Ressources Humaines,Prestations externes,7212.55,8258.97
+2025-12,BU01,Construction France,CC1002,Ressources Humaines,Salaires,15572.17,14898.09
+2025-12,BU01,Construction France,CC1002,Ressources Humaines,Matériel,6201.96,5998.22
+2025-12,BU01,Construction France,CC1002,Ressources Humaines,Déplacements,2770.79,2829.78
+2025-12,BU01,Construction France,CC1002,Ressources Humaines,Énergie,4743.41,5284.71
+2025-12,BU01,Construction France,CC1003,Finance,Logiciels,5786.48,5949.68
+2025-12,BU01,Construction France,CC1003,Finance,Prestations externes,11502.43,12247.66
+2025-12,BU01,Construction France,CC1003,Finance,Salaires,19255.94,18428.52
+2025-12,BU01,Construction France,CC1003,Finance,Matériel,6648.61,7120.2
+2025-12,BU01,Construction France,CC1003,Finance,Déplacements,4712.69,5035.07
+2025-12,BU01,Construction France,CC1003,Finance,Énergie,6508.02,7101.0
+2025-12,BU02,Construction UK,CC2001,IT,Logiciels,6689.3,5818.67
+2025-12,BU02,Construction UK,CC2001,IT,Prestations externes,9786.4,11411.11
+2025-12,BU02,Construction UK,CC2001,IT,Salaires,15393.27,16589.35
+2025-12,BU02,Construction UK,CC2001,IT,Matériel,6093.92,6257.38
+2025-12,BU02,Construction UK,CC2001,IT,Déplacements,2828.02,2824.12
+2025-12,BU02,Construction UK,CC2001,IT,Énergie,7222.19,6967.23
+2025-12,BU02,Construction UK,CC2002,Ressources Humaines,Logiciels,7468.16,8308.31
+2025-12,BU02,Construction UK,CC2002,Ressources Humaines,Prestations externes,11756.76,10903.59
+2025-12,BU02,Construction UK,CC2002,Ressources Humaines,Salaires,17812.61,16036.65
+2025-12,BU02,Construction UK,CC2002,Ressources Humaines,Matériel,9418.43,10886.86
+2025-12,BU02,Construction UK,CC2002,Ressources Humaines,Déplacements,3758.91,4239.57
+2025-12,BU02,Construction UK,CC2002,Ressources Humaines,Énergie,6375.45,6731.09
+2025-12,BU02,Construction UK,CC2003,Finance,Logiciels,5222.59,5740.87
+2025-12,BU02,Construction UK,CC2003,Finance,Prestations externes,7439.65,8351.77
+2025-12,BU02,Construction UK,CC2003,Finance,Salaires,21945.9,23786.85
+2025-12,BU02,Construction UK,CC2003,Finance,Matériel,5401.87,5131.95
+2025-12,BU02,Construction UK,CC2003,Finance,Déplacements,3177.54,3078.54
+2025-12,BU02,Construction UK,CC2003,Finance,Énergie,4815.51,5582.12
+2025-12,BU03,Energie,CC3001,IT,Logiciels,7034.83,6688.88
+2025-12,BU03,Energie,CC3001,IT,Prestations externes,8893.7,8872.15
+2025-12,BU03,Energie,CC3001,IT,Salaires,19986.42,20389.63
+2025-12,BU03,Energie,CC3001,IT,Matériel,9111.45,9238.99
+2025-12,BU03,Energie,CC3001,IT,Déplacements,4708.53,5325.21
+2025-12,BU03,Energie,CC3001,IT,Énergie,5250.64,6075.49
+2025-12,BU03,Energie,CC3002,Maintenance,Logiciels,5328.83,5967.0
+2025-12,BU03,Energie,CC3002,Maintenance,Prestations externes,8805.37,10035.75
+2025-12,BU03,Energie,CC3002,Maintenance,Salaires,22875.01,25527.49
+2025-12,BU03,Energie,CC3002,Maintenance,Matériel,8568.13,8144.38
+2025-12,BU03,Energie,CC3002,Maintenance,Déplacements,2794.93,2747.37
+2025-12,BU03,Energie,CC3002,Maintenance,Énergie,5124.69,5531.25
+2025-12,BU03,Energie,CC3003,Finance,Logiciels,6224.79,7295.15
+2025-12,BU03,Energie,CC3003,Finance,Prestations externes,10211.25,11451.08
+2025-12,BU03,Energie,CC3003,Finance,Salaires,14931.27,16939.0
+2025-12,BU03,Energie,CC3003,Finance,Matériel,9125.58,9223.5
+2025-12,BU03,Energie,CC3003,Finance,Déplacements,3898.13,4297.25
+2025-12,BU03,Energie,CC3003,Finance,Énergie,5129.42,5210.7
+2025-12,BU04,Infrastructures,CC4001,IT,Logiciels,6429.79,5775.9
+2025-12,BU04,Infrastructures,CC4001,IT,Prestations externes,8734.69,7620.99
+2025-12,BU04,Infrastructures,CC4001,IT,Salaires,13778.77,12326.55
+2025-12,BU04,Infrastructures,CC4001,IT,Matériel,9295.08,9586.44
+2025-12,BU04,Infrastructures,CC4001,IT,Déplacements,4653.23,4619.37
+2025-12,BU04,Infrastructures,CC4001,IT,Énergie,5622.54,5718.27
+2025-12,BU04,Infrastructures,CC4002,Maintenance,Logiciels,6589.1,5830.49
+2025-12,BU04,Infrastructures,CC4002,Maintenance,Prestations externes,10210.46,9406.82
+2025-12,BU04,Infrastructures,CC4002,Maintenance,Salaires,20191.55,21495.24
+2025-12,BU04,Infrastructures,CC4002,Maintenance,Matériel,5888.5,5124.44
+2025-12,BU04,Infrastructures,CC4002,Maintenance,Déplacements,4264.6,4271.99
+2025-12,BU04,Infrastructures,CC4002,Maintenance,Énergie,4709.39,5549.1
+2025-12,BU04,Infrastructures,CC4003,Finance,Logiciels,5100.34,5505.12
+2025-12,BU04,Infrastructures,CC4003,Finance,Prestations externes,12061.87,11204.62
+2025-12,BU04,Infrastructures,CC4003,Finance,Salaires,15036.29,13383.16
+2025-12,BU04,Infrastructures,CC4003,Finance,Matériel,6523.76,5762.73
+2025-12,BU04,Infrastructures,CC4003,Finance,Déplacements,4078.54,3550.6
+2025-12,BU04,Infrastructures,CC4003,Finance,Énergie,6333.92,7467.12
