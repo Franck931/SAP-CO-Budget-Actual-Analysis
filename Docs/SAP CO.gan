@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="SAP CO — Analyse Budgétaire" company="Projet personnel — Portfolio Data &amp; Business Intelligence" webLink="http://github.com/users/Franck931/projects/1/views/2" view-date="2026-08-24" view-index="0" gantt-divider-location="286" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+    <description><![CDATA[Projet de Business Intelligence consacré au suivi et à l'analyse des écarts budgétaires dans un contexte de contrôle de gestion inspiré de SAP CO.
+
+L'objectif est de concevoir un dashboard Power BI permettant de comparer le budget prévisionnel aux dépenses réelles, d'analyser les écarts par période, Business Unit, centre de coûts et nature de dépense, et d'identifier les dépassements significatifs.
+
+Le projet mobilise des compétences en analyse fonctionnelle, modélisation des données, DAX, visualisation Power BI et gestion de projet.
+
+Le jeu de données utilisé est fictif et destiné à la démonstration.]]></description>
+    <view zooming-state="default:3" id="gantt-chart">
+        <field id="tpd3" name="Nom" width="154" order="0"/>
+        <field id="tpd4" name="Date de début" width="58" order="1"/>
+        <field id="tpd5" name="Date de fin" width="58" order="2"/>
+        <field id="tpd15" name="Notes" width="20" order="3"/>
+        <option id="filter.completedTasks" value="false"/>
+        <option id="filter.dueTodayTasks" value="false"/>
+        <option id="filter.overdueTasks" value="false"/>
+        <option id="filter.inProgressTodayTasks" value="false"/>
+        <timeline><![CDATA[0]]></timeline>
+        <option id="color.recent"><![CDATA[#006633 #ff0066 #ff6600 #0066ff #9999ff]]></option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nom" width="210" order="0"/>
+        <field id="1" name="Rôle par défaut" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" uid="d572bdb9ce7145fe81c61935ca01aeb1" name="Sprint 1 — Cadrage et données" color="#9999ff" meeting="false" start="2026-08-25" duration="5" complete="0" expand="true">
+            <notes><![CDATA[Objectif :
+Comprendre la problématique de suivi budgétaire exposée par le tuteur.
+
+Travaux réalisés :
+Analyse du mail reçu, identification des problèmes rencontrés et des attentes métier.
+
+Résultat obtenu :
+Une compréhension initiale du besoin et des objectifs du projet SAP CO — Analyse Budgétaire.]]></notes>
+            <task id="5" uid="21fac49952be43ce83df3165323c8e12" name="Analyser la demande du tuteur" meeting="false" start="2026-08-25" duration="1" complete="0" expand="true"/>
+            <task id="6" uid="33fdefb1d3e7403791ea45c50c13a954" name="Identifier les besoins fonctionnels" meeting="false" start="2026-08-26" duration="1" complete="0" expand="true"/>
+            <task id="7" uid="46e84691ff05431c8415e66d62faffbe" name="Définir le périmètre et les KPI" meeting="false" start="2026-08-27" duration="1" complete="0" expand="true"/>
+            <task id="8" uid="2d6551137306456b9aadcad9bf80b561" name="Examiner le jeu de données SAP" meeting="false" start="2026-08-28" duration="1" complete="0" expand="true"/>
+            <task id="9" uid="87be0b83f032428b817d9875250babc2" name="Vérifier la qualité des données" meeting="false" start="2026-08-31" duration="1" complete="0" expand="true"/>
+        </task>
+        <task id="1" uid="f65af3e825804b87869047f8eb519eed" name="Sprint 2 — Modélisation et DAX" color="#0066ff" meeting="false" start="2026-09-01" duration="5" complete="0" expand="true">
+            <notes><![CDATA[Objectif :
+Traduire la demande métier en fonctionnalités attendues.
+
+Travaux réalisés :
+Identification des besoins d'analyse du budget, des dépenses réelles et des écarts, avec une analyse par période, Business Unit, centre de coûts et nature de dépense.
+
+Résultat obtenu :
+Une liste des principales fonctionnalités attendues du dashboard Power BI.]]></notes>
+            <task id="10" uid="fd62bad753824aa28b065eced30d5bba" name="Structurer le modèle de données Power BI" meeting="false" start="2026-09-01" duration="2" complete="0" expand="true"/>
+            <task id="11" uid="ff1fb698b1034182a5fb55e9db46a0dd" name="Vérifier les relations et les agrégations" meeting="false" start="2026-09-03" duration="1" complete="0" expand="true"/>
+            <task id="12" uid="c3d0f4146d044b638111db1419a7a66e" name="Développer les mesures DAX budgétaires" meeting="false" start="2026-09-04" duration="2" complete="0" expand="true"/>
+        </task>
+        <task id="2" uid="6ad909def4b44d2b8b22a7c6df216079" name="Sprint 3 — Développement du dashboard" color="#ff6600" meeting="false" start="2026-09-08" duration="5" complete="0" expand="true">
+            <notes><![CDATA[Objectif :
+Définir les indicateurs nécessaires au pilotage budgétaire.
+
+Travaux réalisés :
+Définition du budget total, du réel total, de l'écart en euros et de l'écart en pourcentage. Identification des dimensions d'analyse et des règles de détection des écarts significatifs.
+
+Résultat obtenu :
+Un périmètre fonctionnel et une définition des principaux KPI du dashboard.]]></notes>
+            <task id="13" uid="241a1942ec384b3c9fb20b40838adde7" name="Construire les cartes KPI" meeting="false" start="2026-09-08" duration="1" complete="0" expand="true"/>
+            <task id="14" uid="a7572e4350b342c883064f64f568f8d2" name="Créer l'évolution mensuelle Budget / Réel / Écart" meeting="false" start="2026-09-09" duration="2" complete="0" expand="true"/>
+            <task id="15" uid="71333438187c4d0f865dec5c92c0d942" name="Créer les analyses par dépense et centre de coûts" meeting="false" start="2026-09-11" duration="1" complete="0" expand="true"/>
+            <task id="16" uid="8b73d9f6685e437097040e99e430a7f3" name="Configurer les filtres et les interactions" meeting="false" start="2026-09-14" duration="1" complete="0" expand="true"/>
+        </task>
+        <task id="3" uid="ece2124fefc047dabfe655a86ae35f96" name="Sprint 4 — Tests et ajustements" color="#ff0066" meeting="false" start="2026-09-15" duration="5" complete="0" expand="true">
+            <notes><![CDATA[Objectif :
+Comprendre les données disponibles avant leur exploitation dans Power BI.
+
+Travaux réalisés :
+Examen des fichiers reçus, identification des tables, colonnes, dimensions et mesures financières disponibles.
+
+Résultat obtenu :
+Une première compréhension de la structure du jeu de données et de son adéquation aux besoins métier.]]></notes>
+            <task id="17" uid="565eca785db04d2e9a0aa5f5ebce01bb" name="Vérifier les KPI avec les données sources" meeting="false" start="2026-09-15" duration="2" complete="0" expand="true"/>
+            <task id="18" uid="ab2cff515ecf40b68de84fbe04809cc5" name="Tester les filtres et les interactions" meeting="false" start="2026-09-17" duration="1" complete="0" expand="true"/>
+            <task id="19" uid="a949d8a93232425281bfc0f6d5d7adb5" name="Vérifier la détection des écarts significatifs" meeting="false" start="2026-09-18" duration="1" complete="0" expand="true"/>
+            <task id="20" uid="aa24701d90a841849beafe791da78ee9" name="Effectuer les ajustements finaux" meeting="false" start="2026-09-21" duration="1" complete="0" expand="true"/>
+        </task>
+        <task id="4" uid="784d53d2530944c2b6e6d3be182893da" name="Clôture — Livraison finale" color="#006633" meeting="false" start="2026-09-22" duration="4" complete="100" expand="true">
+            <notes><![CDATA[Objectif :
+Évaluer la fiabilité des données utilisées pour l'analyse budgétaire.
+
+Travaux réalisés :
+Contrôle des valeurs manquantes, doublons éventuels, formats, cohérence des montants et périodes, selon les vérifications effectivement réalisées.
+
+Résultat obtenu :
+Identification des anomalies éventuelles et des limites des données avant la modélisation.]]></notes>
+            <task id="21" uid="49a7256a6f4741b394ff03393cc8a5ac" name="Finaliser la présentation du dashboard" meeting="false" start="2026-09-22" duration="1" complete="0" expand="true"/>
+            <task id="22" uid="0a4457165aa8477d9d2d85065039ba42" name="Organiser les livrables et la documentation" meeting="false" start="2026-09-23" duration="2" complete="0" expand="true"/>
+            <task id="23" uid="c9546fefb66d48789691e350fc135db2" name="Livraison finale du projet" meeting="true" start="2026-09-25" duration="0" complete="0" expand="true"/>
+        </task>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
